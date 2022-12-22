@@ -66,7 +66,7 @@ struct ContentView: View {
                     }
                     Spacer()
                     VStack {
-                        Text("CPU")
+                        Text("PC")
                             .font(.headline)
                             .foregroundColor(Color.white)
                             .padding(.bottom, 10.0)
